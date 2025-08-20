@@ -5,96 +5,94 @@
   <img src="Astar_Color_Black.png" alt="Astar Logo" width="120" style="margin: 0px 0px 40px 16px;" />
 </p>
 
-👉 **Registration link**: [Register here](https://nq1v5s7hsah.typeform.com/to/I3TMz4Hs)  
-👉 **Submission link**: [Submit here](https://nq1v5s7hsah.typeform.com/to/TzhQsx7K)
+👉 Enlace de registro: [Regístrate aquí](https://nq1v5s7hsah.typeform.com/to/I3TMz4Hs)  
+👉 Enlace de envío final: [Enviar aquí](https://nq1v5s7hsah.typeform.com/to/TzhQsx7K)
 
 
 ---
 
-## 📖 About
-The **Astar Buildathon @ Cripto Latin Fest 2025** is a 2-day online coding competition where developers build blockchain projects using Astar collective ecosystem.
-💰 Prize pool of **1000 USDT** split among the **top 3 winning projects**.
+## 📖 Acerca de
+El **Astar Buildathon @ Cripto Latin Fest 2025** es una competencia de programación en línea de 2 días donde desarrolladores construyen proyectos de blockchain usando el Astar Ecosystem.  
+💰 Bolsa de premios de **1000 USDT** dividida entre los **3 mejores proyectos**.
 
 ---
 
-## 🗓️ When
-- **Start:** Thursday, **August 21st, 2:00 PM**  
-- **End:** Friday, **August 22nd, 10:00 AM** 
+## 🗓️ Cuándo
+- **Inicio:** Jueves, **21 de agosto, 2:00 PM**  
+- **Cierre:** Viernes, **22 de agosto, 10:00 AM**
 
-🕒 All times are in GMT-5 (Bogotá / Mexico City time).
+🕒 Todos los horarios están en GMT-5 (Hora Bogotá).
 
-### 📚 Workshops & Schedule
+### 📚 Talleres y agenda
 
-Workshops take place at the Buildathon Zone of the main venue
-- **Workshop 1: “Building dApps on Astar”** — Thursday, 12:30 PM → 3:00 PM  
-  Learn how to build dApps on the Astar network. We will cover everything from development fundamentals and UX design to creating sustainable economic models centered around the ASTR token.
-  - Development fundamentals and tooling
-  - UX design and wallet flows
-  - ASTR-centric tokenomics and sustainability
+Los Workshops se realizan en la **Buildathon Zone** del venue principal
+- **Workshop 1: “Building dApps on Astar”** — Jueves, 12:30 PM → 3:00 PM  
+  Aprende a construir dApps en la Astar network. Despliegue básico de contratos e integración con UI.
+
+
 - **Break & Networking**  
-- **Workshop 2: “On-Chain governance tools”** — Thursday, 3:30 PM → 4:30 PM  
-  Delve into the creation of tools for Astar's on-chain governance. We will analyze governance models, the construction of transparent interfaces, and best practices for smart contract security.
-  - Governance models on Astar
-  - Transparent, auditable interface patterns
-  - Security best practices for governance smart contracts
-- **Submission Deadline:** Friday, 10:00 AM  
-- **Winners Announcement:** Friday, 2:00 PM  
+- **Workshop 2: “On-chain governance tools”** — Jueves, 3:30 PM → 4:30 PM  
+  Profundiza en la creación de herramientas para la on-chain governance de Astar.
+  
+- **Submission Deadline:** Viernes, 10:00 AM  
+- **Winners Announcement:** Viernes, 2:00 PM
 
-🕒 All times are in GMT-5 (Bogotá time).
+🕒 Todos los horarios están en GMT-5 (Bogotá time).
 
 ---
 
-## 💡 The Challenge
-Create a complete **impactful project** with both working code and a business presentation:
+## 💡 El desafío
+Crea un **proyecto impactante** y completo con código funcionando y una presentación de negocio:
 
 ### 🎯 Tracks & Focus Areas
-- ASTR Token Integration (required): Applications must use the ASTR token as a core component.
-- Governance Tools (encouraged): Integrations that enhance participation in Astar’s on-chain governance.
-- Entertainment & Consumer: Apps that promote entertainment and consumer use cases using the ASTR token.
+- ASTR Token Integration (obligatorio): Las aplicaciones deben usar el ASTR token como componente central.
+- Governance Tools (recomendado): Integraciones que mejoren la participación en la on-chain governance de Astar.
+- Entertainment & Consumer: Apps que impulsen casos de uso de entretenimiento y consumo utilizando el ASTR token.
 
-### 🔧 Technical Prototype
-- ✅ A **functional application** that users can interact with  
-- **What to submit:**  
-  - GitHub repository containing:
-    - app code
-    - smart contract code (if required)
-    - clear documentation including:
-      - how to run the app in development
-      - link to the live web application
-      - testnet contract address
+### 🔧 Requisitos y Entregables
+
+- ✅ Una **aplicación funcional** con la que las personas puedan interactuar  
+- **Qué enviar:**  
+  - Repository de GitHub que contenga:
+    - código de la app
+    - código de smart contract (si aplica)
+    - documentación clara que incluya:
+      - cómo ejecutar la app en desarrollo
+      - enlace a la aplicación web en vivo
+      - dirección del contrato en testnet
 
 ### 🎤 Pitch Deck
-- ✅ Clear presentation slides that explain your business idea  
-- **What to submit:**  
-  - Public Google Drive folder containing:
-    - PDF slides
-    - 3-minute video presenting your business concept  
-    - 3-minute demo video showing how your app works  
+- ✅ Presentación clara que explique tu idea de negocio  
+- **Qué enviar:**  
+  - Carpeta pública en Google Drive que contenga:
+    - PDF de las diapositivas
+    - video de 3 minutos presentando tu concepto de negocio  
+    - demo video de 3 minutos mostrando cómo funciona tu app  
 
-## ✅ Rules
-- Team size: up to 5 people.
-- Solo participants are allowed.
-- Only new code written during the hackathon is allowed. You may use prior ideas or in-progress projects, but your submission must rely on new code produced at the event.
-- Late submissions (after the deadline) will be rejected.
-- Submissions modified after the deadline will be rejected.
-- Plagiarism or fraudulent submissions will result in disqualification.
-- AI tools and "vibe coding" are allowed.
-
----
-
-## 🏆 Judging Criteria
-- **Technical feasibility**: How realistic, scoped, and achievable the solution is given the team's skills.
-- **Implementation quality**: Code quality, repository best practices, architecture, and UI/UX effectiveness.
-- **Functionality**: Working features, smooth user flows, and minimal errors.
-- **Ecosystem fit**: Usefulness within the Astar ecosystem (especially for governance tools) or fit with target users for consumer apps.
-- **Creativity**: Originality and fresh approach; a new angle on an existing problem is welcome.
-- **ASTR token implementation**: Depth, correctness, and utility of ASTR token use.
-- **Startale Cloud Services usage**: Effective adoption of Startale Cloud Services (when applicable).
-- **Track alignment**: How well the project fits the stated Tracks & Focus Areas.
+## ✅ Reglas
+- Tamaño del equipo: hasta 5 personas.
+- Participantes individuales (solo) están permitidos.
+- Solo se permite código nuevo escrito durante el hackathon. Puedes usar ideas previas o proyectos en progreso, pero tu Submission debe basarse en código nuevo producido en el evento.
+- Submissions fuera de tiempo (después del límite) serán rechazadas.
+- Submissions modificadas después del límite serán rechazadas.
+- Plagio o Submissions fraudulentas resultarán en descalificación.
+- Se permiten herramientas de IA y "vibe coding".
 
 ---
 
-## 🔗 Useful Links & Docs
+## 🏆 Criterios de evaluación
+- **Technical feasibility**: Qué tan realista, acotada y alcanzable es la solución dado el skill del equipo.
+- **Implementation quality**: Calidad de código, buenas prácticas de repository, architecture y efectividad de UI/UX.
+- **Functionality**: Funcionalidad, fluidez de user flows y mínimos errores.
+- **Ecosystem fit**: Utilidad dentro del Astar Ecosystem (especialmente para governance tools) o ajuste con usuarios objetivo en apps de consumo.
+- **Creativity**: Originalidad y enfoque fresco; se valora un nuevo ángulo sobre un problema existente.
+- **ASTR token implementation**: Profundidad, corrección y utilidad del uso del ASTR token.
+- **Startale Cloud Services usage**: Adopción efectiva de Startale Cloud Services (cuando aplique).
+- **Track alignment**: Qué tan bien se alinea el proyecto con los Tracks & Focus Areas establecidos.
+
+---
+
+## 🔗 Enlaces y documentación útiles
 - [Astar Docs: Build Introduction](https://docs.astar.network/docs/build/Introduction/)  
 - [Astar Docs: Integrations](https://docs.astar.network/docs/build/integrations/)  
 - [Astar Docs: Get Test Tokens (Faucet)](https://docs.astar.network/docs/build/environment/faucet/)  
