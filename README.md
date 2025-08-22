@@ -5,8 +5,8 @@
   <img src="Astar_Color_Black.png" alt="Astar Logo" width="120" style="margin: 0px 0px 40px 16px;" />
 </p>
 
-👉 Enlace de registro: [Regístrate aquí](https://nq1v5s7hsah.typeform.com/to/I3TMz4Hs)  
-👉 Enlace de envío final: [Enviar aquí](https://nq1v5s7hsah.typeform.com/to/TzhQsx7K)
+👉 Enlace de registro: [Regístrate aquí](https://forms.gle/v1jUtMVprAVP8NFo6)  
+👉 Enlace de envío final: [Enviar aquí](https://forms.gle/BYmJ6hWfDFdAZXMu5)
 
 
 ---
